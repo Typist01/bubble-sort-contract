@@ -1,4 +1,4 @@
-# Sorter contract fulfilled through bubble sort implementation
+# Sorter contract fulfilled through bubble sort
 
 ### usage:
 ##### contract implemented in main
